@@ -1,0 +1,22 @@
+{
+	"name": "ew_start",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "node ./src/main.js",
+		"start": "node ./src/index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"@lolzteam/sdk": "^0.2.6",
+		"dotenv": "^16.4.5",
+		"i": "^0.3.7",
+		"npm": "^10.8.3",
+		"telegraf": "^4.16.3",
+		"telegram": "^2.24.11"
+	}
+}
